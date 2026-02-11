@@ -43,7 +43,7 @@ Tier 3 locations generate the highest revenue compared to Tier 1 and Tier 2.
 Supermarket Type1 dominates sales and item volume, making it the top-performing outlet type.
 
 ---
-
+ 
 ## 🔍 Key Business Insights
 - Tier 3 outlets are the strongest revenue contributors.
 - Medium outlet size delivers optimal performance.
