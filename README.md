@@ -56,7 +56,7 @@ Supermarket Type1 dominates sales and item volume, making it the top-performing 
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](Blinkit.png)
+![Blinkit Dashboard](Screenshot(109).png)
 
 
 ## 📁 Repository Contents
