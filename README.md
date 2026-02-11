@@ -18,7 +18,7 @@ The objective of this project is to help stakeholders make data-driven decisions
 - Total Sales:   
 - Average Sales:   
 - Number of Items Sold:   
-- Average Customer Rating:   
+- Average Customer Rating:  
 
 ---
 
