@@ -69,5 +69,5 @@ This dashboard enables identification of high-performing outlets, understanding 
 
 ## 👤 Author
 Rahul Singh  
-BCA Graduate | Aspiring Data Analyst
+| Aspiring Data Analyst
 
