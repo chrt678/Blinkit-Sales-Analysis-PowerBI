@@ -54,6 +54,11 @@ Supermarket Type1 dominates sales and item volume, making it the top-performing 
 
 ---
 
+## Dashboard Preview
+
+![Blinkit Dashboard](Blinkit.png)
+
+
 ## 📁 Repository Contents
 - Dataset: Excel sales data  
 - PowerBI: PBIX dashboard file  
@@ -68,6 +73,6 @@ This dashboard enables identification of high-performing outlets, understanding 
 ---
 
 ## 👤 Author
-Rahul Singh  
+Rahul Kumar  
 | Aspiring Data Analyst
 
